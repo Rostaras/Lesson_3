@@ -1,0 +1,33 @@
+h3 {
+  color: blueviolet;
+}
+ul {
+  color: lightcoral;
+}
+.bigtitle .stem-bigtitle {
+  color: yellowgreen;
+}
+.title {
+  color: brown;
+}
+.definition {
+  color: red;
+}
+.target {
+  color: green;
+}
+.maths {
+  color: chocolate;
+}
+.english {
+  color: cyan;
+}
+.it {
+  color: grey;
+}
+.uk {
+  color: darkorange;
+}
+.physics-chemistry {
+  color: teal;
+}
